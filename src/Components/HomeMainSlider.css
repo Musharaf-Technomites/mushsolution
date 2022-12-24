@@ -1,0 +1,31 @@
+.carousel-indicators .active {
+    background-color: #f15a28;
+
+}
+
+
+
+.SliderImage {
+    height: 100vh;
+}
+
+.sliderContent {
+
+    top: 46%;
+    bottom: 0px;
+}
+
+.mainHeading {
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: #f15a28;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+.paragraph {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 4px;
+}

@@ -1,0 +1,21 @@
+.logoImg {
+    height: 150px;
+    bottom: 20px;
+
+}
+
+.navTitle {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 300;
+    width: auto;
+
+}
+
+.navTitle:hover {
+
+    border-bottom: 2px solid #f15a28;
+    width: auto;
+
+}
